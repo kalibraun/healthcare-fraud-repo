@@ -41,7 +41,7 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 - `TotalReimbursed`
 - `InpatientClaimCount`
 - `OutpatientClaimCount`
-- `AvgClaimDuration` (if applicable)
+- `AvgClaimDuration`
 
 ---
 
