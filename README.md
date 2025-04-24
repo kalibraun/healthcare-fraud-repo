@@ -31,7 +31,8 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 - `inpatient_data.csv` – Inpatient claim records
 - `outpatient_data.csv` – Outpatient claim records
 
-> All data is assumed to be downloaded from [Kaggle]([https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis]) or imported locally.
+> All data is assumed to be downloaded from [Kaggle] or imported locally.
+> https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis
 
 ---
 
