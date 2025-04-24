@@ -1,10 +1,10 @@
-# 🧠 Fraud Detection in Healthcare Claims
+#  Fraud Detection in Healthcare Claims
 
 This project aims to detect **fraudulent healthcare providers** by identifying suspicious patterns in claim volumes and durations using **inpatient** and **outpatient** data. Leveraging supervised machine learning techniques, the model highlights providers that submit an unusually high number of claims over short periods — a common indicator of potential fraud.
 
 ---
 
-## 🔍 Objective
+##  Objective
 
 Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
@@ -15,7 +15,7 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Pandas**, **NumPy**
@@ -25,7 +25,7 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ---
 
-## 📁 Data Sources
+##  Data Sources
 
 - `training_fraud.csv` – Contains labels for providers flagged as fraudulent (`PotentialFraud`)
 - `inpatient_data.csv` – Inpatient claim records
@@ -35,7 +35,7 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ---
 
-## 📊 Key Features Engineered
+##  Key Features Engineered
 
 - `TotalClaimCount`
 - `TotalReimbursed`
@@ -45,7 +45,7 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 - **Algorithm**: XGBoost Classifier
 - **Evaluation Metrics**:
