@@ -1,6 +1,6 @@
 #  Fraud Detection in Healthcare Claims
 
-This project aims to detect **fraudulent healthcare providers** by identifying suspicious patterns in claim volumes and durations using **inpatient** and **outpatient** data. Leveraging supervised machine learning techniques, the model highlights providers that submit an unusually high number of claims over short periods — a common indicator of potential fraud.
+This project aims to detect fraudulent healthcare providers by identifying suspicious patterns in claim volumes and durations using inpatient and outpatient data. Leveraging supervised machine learning techniques, the model highlights providers that submit an unusually high number of claims over short periods, a common indicator of potential fraud.
 
 ---
 
