@@ -48,12 +48,12 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ##  Model Performance
 
-- **Algorithm**: XGBoost Classifier
-- **Evaluation Metrics**:
+- Algorithm XGBoost Classifier
+- Evaluation Metrics
   - ROC AUC Score
   - Precision / Recall / F1-score
   - Confusion Matrix
-- **Visualizations**:
+- Visualizations:
   - Interactive scatter plots of fraud probability vs. claim count
   - Boxplots and bar charts comparing fraudulent vs. non-fraudulent providers
   - ROC Curve
