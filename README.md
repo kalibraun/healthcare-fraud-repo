@@ -59,6 +59,6 @@ Detect fraudulent providers by analyzing patterns in claim behavior such as:
 
 ##  Insights
 
-- Fraudulent providers tend to submit **higher-than-average claim volumes**
+- Fraudulent providers tend to submit higher-than-average claim volumes
 - Claim behavior patterns can be strong indicators of fraud
-- Visualizations help highlight **high-risk providers** for further investigation
+- Visualizations help highlight high-risk providers for further investigation
